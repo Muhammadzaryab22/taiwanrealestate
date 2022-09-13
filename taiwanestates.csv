@@ -1,0 +1,415 @@
+transaction_date,house_age,station_distance,conveniencestores,address,price_per_unit
+2012.9166667,32,84.87882,10,"No. 42, Minquan Rd, Xindian District, New Taipei City, Taiwan 231",37.9
+2012.9166667,19.5,306.5947,9,"No. 30, Lane 33, Ershizhang Rd, Xindian District, New Taipei City, Taiwan 231",42.2
+2013.5833333,13.3,561.9845,5,"No. 8, Baoqing St, Xindian District, New Taipei City, Taiwan 231",47.3
+2013.5,13.3,561.9845,5,"No. 8, Baoqing St, Xindian District, New Taipei City, Taiwan 231",54.8
+2012.8333333,5,390.5684,5,"No. 6, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",43.1
+2012.6666667,7.1,2175.03,3,"No. 14, Ande St, Xindian District, New Taipei City, Taiwan 231",32.1
+2012.6666667,34.5,623.4731,7,"No. 8, Alley 1, Lane 129, Ershizhang Rd, Xindian District, New Taipei City, Taiwan 231",40.3
+2013.4166667,20.3,287.6025,6,"No. 68, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",46.7
+2013.5,31.7,5512.038,1,"No. 3, Lane 355, Section 3, Ankang Rd, Xindian District, New Taipei City, Taiwan 231",18.8
+2013.4166667,17.9,1783.18,3,"No. 3, Anxing Rd, Xindian District, New Taipei City, Taiwan 231",22.1
+2013.0833333,34.8,405.2134,1,"No. 155-1, Sanmin Rd, Xindian District, New Taipei City, Taiwan 231",41.4
+2013.3333333,6.3,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",58.1
+2012.9166667,13,492.2313,5,"No. 110號, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",39.3
+2012.6666667,20.4,2469.645,4,"No. 16, Lane 71, Ande St, Xindian District, New Taipei City, Taiwan 231",23.8
+2013.5,13.2,1164.838,4,"No. 41, Ln 700, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",34.3
+2013.5833333,35.7,579.2083,2,"No. 15號, Section 2, Baoyuan Rd, Xindian District, New Taipei City, Taiwan 231",50.5
+2013.25,0,292.9978,6,"No. 50, Lane 85, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",70.1
+2012.75,17.7,350.8515,1,"No. 118, Zhongyang Rd, Xindian District, New Taipei City, Taiwan 231",37.4
+2013.4166667,16.9,368.1363,8,"No. 263, Section 1, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",42.3
+2012.6666667,1.5,23.38284,7,"No. 8, Lane 297, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",47.7
+2013.4166667,4.5,2275.877,3,"No. 20, Lane 60, Ande St, Xindian District, New Taipei City, Taiwan 231",29.3
+2013.4166667,10.5,279.1726,7,"No. 73, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",51.6
+2012.9166667,14.7,1360.139,1,"No. 4-1, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",24.6
+2013.0833333,10.1,279.1726,7,"No. 73, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",47.9
+2013,39.6,480.6977,4,"231, Taiwan, New Taipei City, Xindian District, 北101鄉道257號",38.8
+2013.0833333,29.3,1487.868,2,"231, Taiwan, New Taipei City, Xindian District, 安和路二段217巷7號",27
+2012.6666667,3.1,383.8624,5,"No. 181號, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",56.2
+2013.25,10.4,276.449,5,"No. 85, Section 1, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",33.6
+2013.5,19.2,557.478,4,"Zhongzheng Public House, Xindian District, New Taipei City, Taiwan 231",47
+2013.0833333,7.1,451.2438,5,"231, Taiwan, New Taipei City, Xindian District, Baoqiao Rd, 100號1樓",57.1
+2013.5,25.9,4519.69,0,"Binshi Special Zone, Xindian District, New Taipei City, Taiwan 231",22.1
+2012.75,29.6,769.4034,7,"No. 168, Minquan Rd, Xindian District, New Taipei City, Taiwan 231",25
+2012.75,37.9,488.5727,1,"No. 51, Ziyou St, Xindian District, New Taipei City, Taiwan 231",34.2
+2013.25,16.5,323.655,6,"No. 262, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",49.3
+2012.75,15.4,205.367,7,"No. 255, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",55.1
+2013.5,13.9,4079.418,0,"No. 7號, Lane 39, Zhulin Rd, Yonghe District, New Taipei City, Taiwan 234",27.3
+2012.9166667,14.7,1935.009,2,"No. 5, Lane 58, Section 2, Ankang Rd, Xindian District, New Taipei City, Taiwan 231",22.9
+2013.1666667,12,1360.139,1,"No. 4-1, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",25.3
+2012.6666667,3.1,577.9615,6,"No. 121, Section 2, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",47.7
+2013.1666667,16.2,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",46.2
+2013,13.6,4082.015,0,"231, Taiwan, New Taipei City, Xindian District, Lane 14, Daguan Rd, 2號之6",15.9
+2013.5,16.8,4066.587,0,"No. 8, Lane 14, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",18.2
+2013.4166667,36.1,519.4617,5,"No. 12, Lane 44, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",34.7
+2012.75,34.4,512.7871,6,"231, Taiwan, New Taipei City, Xindian District, Alley 5, Lane 32, Baoqing St, 5號2樓",34.1
+2013.5833333,2.7,533.4762,4,"231, Taiwan, New Taipei City, Xindian District, Lane 78, Baoqiao Rd, 23號1樓",53.9
+2013.0833333,36.6,488.8193,8,"231, Taiwan, New Taipei City, Xindian District, 北101鄉道25號",38.3
+2013.4166667,21.7,463.9623,9,"No. 1, Lane 54, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",42
+2013.5833333,35.9,640.7391,3,"No. 13, Lane 328, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",61.5
+2013.4166667,24.2,4605.749,0,"No. 82, Ruyi St, Xindian District, New Taipei City, Taiwan 231",13.4
+2012.6666667,29.4,4510.359,1,"No. 3, Lane 4, Ruyi St, Xindian District, New Taipei City, Taiwan 231",13.2
+2013.4166667,21.7,512.5487,4,"No. 282-7, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",44.2
+2013.0833333,31.3,1758.406,1,"231, Taiwan, New Taipei City, Xindian District, 北宜路二段167巷4弄20號",20.7
+2013.5833333,32.1,1438.579,3,"No. 313, Anmin St, Xindian District, New Taipei City, Taiwan 231",27
+2013.0833333,13.3,492.2313,5,"No. 110號, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",38.9
+2013.0833333,16.1,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",51.7
+2012.8333333,31.7,1160.632,0,"No. 7, Alley 1, Lane 81, Yongye Rd, Xindian District, New Taipei City, Taiwan 231",13.7
+2013.4166667,33.6,371.2495,8,"No. 192, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",41.9
+2012.9166667,3.5,56.47425,7,"Xindian Station (Xindian Rd.), Xindian District, New Taipei City, Taiwan 231",53.5
+2013.5,30.3,4510.359,1,"No. 3, Lane 4, Ruyi St, Xindian District, New Taipei City, Taiwan 231",22.6
+2013.0833333,13.3,336.0532,5,"No. 6, Taiping Rd, Xindian District, New Taipei City, Taiwan 231",42.4
+2013.4166667,11,1931.207,2,"231, Taiwan, New Taipei City, Xindian District, 110縣道68號",21.3
+2013.5,5.3,259.6607,6,"No. 23, Lane 85, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",63.2
+2012.9166667,17.2,2175.877,3,"No. 14, Ande St, Xindian District, New Taipei City, Taiwan 231",27.7
+2013.5833333,2.6,533.4762,4,"231, Taiwan, New Taipei City, Xindian District, Lane 78, Baoqiao Rd, 23號1樓",55
+2013.3333333,17.5,995.7554,0,"No. 49號, Xinpo 1st St, Xindian District, New Taipei City, Taiwan 231",25.3
+2013.4166667,40.1,123.7429,8,"No. 8, Lane 196, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",44.3
+2013,1,193.5845,6,"No. 28, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",50.7
+2013.5,8.5,104.8101,5,"No. 3, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",56.8
+2013.4166667,30.4,464.223,6,"No. 187, Jianguo Rd, Xindian District, New Taipei City, Taiwan 231",36.2
+2012.8333333,12.5,561.9845,5,"No. 8, Baoqing St, Xindian District, New Taipei City, Taiwan 231",42
+2013.5833333,6.6,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",59
+2013.0833333,35.5,640.7391,3,"No. 13, Lane 328, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",40.8
+2013.5833333,32.5,424.5442,8,"No. 27, Lane 9, Jianxing St, Xindian District, New Taipei City, Taiwan 231",36.3
+2013.1666667,13.8,4082.015,0,"231, Taiwan, New Taipei City, Xindian District, Lane 14, Daguan Rd, 2號之6",20
+2012.9166667,6.8,379.5575,10,"No. 268號, Jianguo Rd, Xindian District, New Taipei City, Taiwan 231",54.4
+2013.5,12.3,1360.139,1,"No. 4-1, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",29.5
+2013.5833333,35.9,616.4004,3,"Dafeng Elementary School, Xindian District, New Taipei City, Taiwan 231",36.8
+2012.8333333,20.5,2185.128,3,"No. 15, Lane 15, Anguang Road, Xindian District, New Taipei City, Taiwan 231",25.6
+2012.9166667,38.2,552.4371,2,"No. 12, Alley 2, Lane 50, Bairen St, Xindian District, New Taipei City, Taiwan 231",29.8
+2013,18,1414.837,1,"No. 9, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",26.5
+2013.5,11.8,533.4762,4,"231, Taiwan, New Taipei City, Xindian District, Lane 78, Baoqiao Rd, 23號1樓",40.3
+2013,30.8,377.7956,6,"No. 3, Lane 7, Lixing Rd, Xindian District, New Taipei City, Taiwan 231",36.8
+2013.0833333,13.2,150.9347,7,"No. 22號, Lane 88, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",48.1
+2012.9166667,25.3,2707.392,3,"No. 9, Lane 130, Ande St, Xindian District, New Taipei City, Taiwan 231",17.7
+2013.0833333,15.1,383.2805,7,"No. 257, Section 1, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",43.7
+2012.75,0,338.9679,9,"No. 9-1, Lane 5, Daxin St, Xindian District, New Taipei City, Taiwan 231",50.8
+2012.8333333,1.8,1455.798,1,"No. 52, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",27
+2013.5833333,16.9,4066.587,0,"No. 8, Lane 14, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",18.3
+2012.9166667,8.9,1406.43,0,"No. 201, Xiyuan Rd, Xindian District, New Taipei City, Taiwan 231",48
+2013.5,23,3947.945,0,"No. 11號, Lane 59, Liming Rd, Xindian District, New Taipei City, Taiwan 231",25.3
+2012.8333333,0,274.0144,1,"No. 5, Zhongyang 7th St, Xindian District, New Taipei City, Taiwan 231",45.4
+2013.25,9.1,1402.016,0,"No. 201, Xiyuan Rd, Xindian District, New Taipei City, Taiwan 231",43.2
+2012.9166667,20.6,2469.645,4,"No. 16, Lane 71, Ande St, Xindian District, New Taipei City, Taiwan 231",21.8
+2012.9166667,31.9,1146.329,0,"No. 13, Alley 7, Lane 81, Yongye Rd, Xindian District, New Taipei City, Taiwan 231",16.1
+2012.9166667,40.9,167.5989,5,"No. 3, Lane 10, Xinsheng St, Xindian District, New Taipei City, Taiwan 231",41
+2012.9166667,8,104.8101,5,"No. 3, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",51.8
+2013.4166667,6.4,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",59.5
+2013.0833333,28.4,617.4424,3,"No. 47, Zhongyang Rd, Xindian District, New Taipei City, Taiwan 231",34.6
+2013.4166667,16.4,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",51
+2013.4166667,6.4,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",62.2
+2013.5,17.5,964.7496,4,"No. 620, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",38.2
+2012.8333333,12.7,170.1289,1,"No. 5, Zhongyang 4th St, Xindian District, New Taipei City, Taiwan 231",32.9
+2013.0833333,1.1,193.5845,6,"No. 28, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",54.4
+2012.75,0,208.3905,6,"No. 58之1號, Section 1, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",45.7
+2012.6666667,32.7,392.4459,6,"231, Taiwan, New Taipei City, Xindian District, 北103鄉道160號",30.5
+2012.8333333,0,292.9978,6,"No. 50, Lane 85, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",71
+2013.0833333,17.2,189.5181,8,"No. 218號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",47.1
+2013.3333333,12.2,1360.139,1,"No. 4-1, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",26.6
+2013.4166667,31.4,592.5006,2,"No. 8, Lane 60, Sanmin Rd, Xindian District, New Taipei City, Taiwan 231",34.1
+2013.5833333,4,2147.376,3,"231, Taiwan, New Taipei City, Xindian District, 110縣道118號",28.4
+2013.0833333,8.1,104.8101,5,"No. 3, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",51.6
+2013.5833333,33.3,196.6172,7,"No. 22號, Mingde Rd, Xindian District, New Taipei City, Taiwan 231",39.4
+2013.4166667,9.9,2102.427,3,"No. 29號, Anzhong Rd, Xindian District, New Taipei City, Taiwan 231",23.1
+2013.3333333,14.8,393.2606,6,"No. 12, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",7.6
+2012.6666667,30.6,143.8383,8,"No. 81, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",53.3
+2013.0833333,20.6,737.9161,2,"No. 70, Section 2, Baoyuan Rd, Xindian District, New Taipei City, Taiwan 231",46.4
+2013,30.9,6396.283,1,"No. 17, Lane 20, Jinxiu Rd, Xindian District, New Taipei City, Taiwan 231",12.2
+2013,13.6,4197.349,0,"No. 40, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",13
+2013.5,25.3,1583.722,3,"No. 8, Lane 12, Ji'an St, Xindian District, New Taipei City, Taiwan 231",30.6
+2013.5,16.6,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",59.6
+2013.1666667,13.3,492.2313,5,"No. 110號, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",31.3
+2013.5,13.6,492.2313,5,"No. 110號, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",48
+2013.25,31.5,414.9476,4,"No. 4, Lane 69, Wenhua Rd, Xindian District, New Taipei City, Taiwan 231",32.5
+2013.4166667,0,185.4296,0,"Xiao Bitan Tribe, Xindian District, New Taipei City, Taiwan 231",45.5
+2012.9166667,9.9,279.1726,7,"No. 73, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",57.4
+2013.1666667,1.1,193.5845,6,"No. 28, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",48.6
+2013.0833333,38.6,804.6897,4,"No. 20, Lane 418, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",62.9
+2013.25,3.8,383.8624,5,"No. 181號, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",55
+2013.0833333,41.3,124.9912,6,"No. 9, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",60.7
+2013.4166667,38.5,216.8329,7,"No. 57, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",41
+2013.25,29.6,535.527,8,"安民街154號154-1號, 1樓, Xindian District, New Taipei City, Taiwan 231",37.5
+2013.5,4,2147.376,3,"231, Taiwan, New Taipei City, Xindian District, 110縣道118號",30.7
+2013.1666667,26.6,482.7581,5,"No. 10, Alley 4, Lane 284, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",37.5
+2012.8333333,18,373.3937,8,"No. 1-1, Fuxing Rd, Xindian District, New Taipei City, Taiwan 231",39.5
+2012.6666667,33.4,186.9686,6,"No. 9, Alley 39, Lane 64, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",42.2
+2012.9166667,18.9,1009.235,0,"No. 67, Xinpo 1st St, Xindian District, New Taipei City, Taiwan 231",20.8
+2012.75,11.4,390.5684,5,"No. 6, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",46.8
+2013.5,13.6,319.0708,6,"No. 63, Xingzheng St, Xindian District, New Taipei City, Taiwan 231",47.4
+2013.1666667,10,942.4664,0,"No. 405, Xiyuan Rd, Xindian District, New Taipei City, Taiwan 231",43.5
+2012.6666667,12.9,492.2313,5,"No. 110號, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",42.5
+2013.25,16.2,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",51.4
+2013.3333333,5.1,1559.827,3,"No. 59, Anxing Rd, Xindian District, New Taipei City, Taiwan 231",28.9
+2013.4166667,19.8,640.6071,5,"No. 53, Section 2, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",37.5
+2013.5,13.6,492.2313,5,"No. 110號, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",40.1
+2013.0833333,11.9,1360.139,1,"No. 4-1, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",28.4
+2012.9166667,2.1,451.2438,5,"231, Taiwan, New Taipei City, Xindian District, Baoqiao Rd, 100號1樓",45.5
+2012.75,0,185.4296,0,"Xiao Bitan Tribe, Xindian District, New Taipei City, Taiwan 231",52.2
+2012.75,3.2,489.8821,8,"231, Taiwan, New Taipei City, Xindian District, 北101鄉道25號",43.2
+2013.5,16.4,3780.59,0,"No. 70, Hefeng 2nd Rd, Xindian District, New Taipei City, Taiwan 231",45.1
+2012.6666667,34.9,179.4538,8,"No. 11, Lane 59, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",39.7
+2013.25,35.8,170.7311,7,"No. 3號, Lane 17, Xingzheng St, Xindian District, New Taipei City, Taiwan 231",48.5
+2013.5,4.9,387.7721,9,"No. 218, Ershizhang Rd, Xindian District, New Taipei City, Taiwan 231",44.7
+2013.3333333,12,1360.139,1,"No. 4-1, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",28.9
+2013.25,6.5,376.1709,6,"No. 123號, Xindian Rd, Xindian District, New Taipei City, Taiwan 231",40.9
+2013.5,16.9,4066.587,0,"No. 8, Lane 14, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",20.7
+2013.1666667,13.8,4082.015,0,"231, Taiwan, New Taipei City, Xindian District, Lane 14, Daguan Rd, 2號之6",15.6
+2013.5833333,30.7,1264.73,0,"Meizhicheng, Xindian District, New Taipei City, Taiwan 231",18.3
+2013.25,16.1,815.9314,4,"No. 27, Lane 436, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",35.6
+2013,11.6,390.5684,5,"No. 6, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",39.4
+2012.6666667,15.5,815.9314,4,"No. 27, Lane 436, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",37.4
+2012.9166667,3.5,49.66105,8,"Xindian Station (Xindian Rd.), Xindian District, New Taipei City, Taiwan 231",57.8
+2013.4166667,19.2,616.4004,3,"Dafeng Elementary School, Xindian District, New Taipei City, Taiwan 231",39.6
+2012.75,16,4066.587,0,"No. 8, Lane 14, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",11.6
+2013.5,8.5,104.8101,5,"No. 3, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",55.5
+2012.8333333,0,185.4296,0,"Xiao Bitan Tribe, Xindian District, New Taipei City, Taiwan 231",55.2
+2012.9166667,13.7,1236.564,1,"No. 72, Baogao Rd, Xindian District, New Taipei City, Taiwan 231",30.6
+2013.4166667,0,292.9978,6,"No. 50, Lane 85, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",73.6
+2013.4166667,28.2,330.0854,8,"No. 27, Jianguo Rd, Xindian District, New Taipei City, Taiwan 231",43.4
+2013.0833333,27.6,515.1122,5,"No. 4, Lane 43, Binlang Rd, Xindian District, New Taipei City, Taiwan 231",37.4
+2013.4166667,8.4,1962.628,1,"No. 18, Xiushui Rd, Xindian District, New Taipei City, Taiwan 231",23.5
+2013.3333333,24,4527.687,0,"No. 8, Lane 53, Meigui Rd, Xindian District, New Taipei City, Taiwan 231",14.4
+2013.0833333,3.6,383.8624,5,"No. 181號, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",58.8
+2013.5833333,6.6,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",58.1
+2013.0833333,41.3,401.8807,4,"No. 17, Lane 220, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",35.1
+2013.4166667,4.3,432.0385,7,"No. 198, Jianguo Rd, Xindian District, New Taipei City, Taiwan 231",45.2
+2013.0833333,30.2,472.1745,3,"No. 9, Alley 2, Lane 29, Sanmin Rd, Xindian District, New Taipei City, Taiwan 231",36.5
+2012.8333333,13.9,4573.779,0,"No. 12-26, Lane 9, Fugui St, Xindian District, New Taipei City, Taiwan 231",19.2
+2013.0833333,33,181.0766,9,"231, Taiwan, New Taipei City, Xindian District, Section 2, Beixin Rd, 177-1號1樓",42
+2013.5,13.1,1144.436,4,"No. 77, Ln 700, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",36.7
+2013.0833333,14,438.8513,1,"No. 57, Zhongyang 3rd St, Xindian District, New Taipei City, Taiwan 231",42.6
+2012.6666667,26.9,4449.27,0,"No. 18, Lane 3, Ruyi St, Xindian District, New Taipei City, Taiwan 231",15.5
+2013.1666667,11.6,201.8939,8,"No. 8, Shunan St, Xindian District, New Taipei City, Taiwan 231",55.9
+2013.5,13.5,2147.376,3,"231, Taiwan, New Taipei City, Xindian District, 110縣道118號",23.6
+2013.5,17,4082.015,0,"231, Taiwan, New Taipei City, Xindian District, Lane 14, Daguan Rd, 2號之6",18.8
+2012.75,14.1,2615.465,0,"No. 11, Lane 1, Mingshan Rd, Xindian District, New Taipei City, Taiwan 231",21.8
+2012.75,31.4,1447.286,3,"No. 265, Anmin St, Xindian District, New Taipei City, Taiwan 231",21.5
+2013.1666667,20.9,2185.128,3,"No. 15, Lane 15, Anguang Road, Xindian District, New Taipei City, Taiwan 231",25.7
+2013,8.9,3078.176,0,"No. 9, Lane 581, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",22
+2012.9166667,34.8,190.0392,8,"No. 216號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",44.3
+2012.9166667,16.3,4066.587,0,"No. 8, Lane 14, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",20.5
+2013.5,35.3,616.5735,8,"No. 115, Ershizhang Rd, Xindian District, New Taipei City, Taiwan 231",42.3
+2013.1666667,13.2,750.0704,2,"No. 3, Lane 45, Baoxing Rd, Xindian District, New Taipei City, Taiwan 231",37.8
+2013.1666667,43.8,57.58945,7,"No. 12, Zhonghua Rd, Xindian District, New Taipei City, Taiwan 231",42.7
+2013.4166667,9.7,421.479,5,"No. 1, Lane 73, Wenhua Rd, Xindian District, New Taipei City, Taiwan 231",49.3
+2013.5,15.2,3771.895,0,"No. 8, Huacheng Rd, Xindian District, New Taipei City, Taiwan 231",29.3
+2013.3333333,15.2,461.1016,5,"No. 142, Section 1, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",34.6
+2013,22.8,707.9067,2,"No. 3, Lane 64, Section 2, Baoyuan Rd, Xindian District, New Taipei City, Taiwan 231",36.6
+2013.25,34.4,126.7286,8,"No. 24, Lane 42, Zhonghua Rd, Xindian District, New Taipei City, Taiwan 231",48.2
+2013.0833333,34,157.6052,7,"No. 13, Alley 39, Lane 64, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",39.1
+2013.4166667,18.2,451.6419,8,"No. 37號, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",31.6
+2013.4166667,17.4,995.7554,0,"No. 49號, Xinpo 1st St, Xindian District, New Taipei City, Taiwan 231",25.5
+2013.4166667,13.1,561.9845,5,"No. 8, Baoqing St, Xindian District, New Taipei City, Taiwan 231",45.9
+2012.9166667,38.3,642.6985,3,"No. 13, Lane 328, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",31.5
+2012.6666667,15.6,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",46.1
+2013,18,1414.837,1,"No. 9, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",26.6
+2013.0833333,12.8,1449.722,3,"No. 1, Lane 269, Anmin St, Xindian District, New Taipei City, Taiwan 231",21.4
+2013.25,22.2,379.5575,10,"No. 268號, Jianguo Rd, Xindian District, New Taipei City, Taiwan 231",44
+2013.0833333,38.5,665.0636,3,"231, Taiwan, New Taipei City, Xindian District, 北101鄉道330號",34.2
+2012.75,11.5,1360.139,1,"No. 4-1, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",26.2
+2012.8333333,34.8,175.6294,8,"No. 65號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",40.9
+2013.5,5.2,390.5684,5,"No. 6, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",52.2
+2013.0833333,0,274.0144,1,"No. 5, Zhongyang 7th St, Xindian District, New Taipei City, Taiwan 231",43.5
+2013.3333333,17.6,1805.665,2,"No. 4, Lane 93, Xinhe St, Xindian District, New Taipei City, Taiwan 231",31.1
+2013.0833333,6.2,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",58
+2013.5833333,18.1,1783.18,3,"No. 3, Anxing Rd, Xindian District, New Taipei City, Taiwan 231",20.9
+2013.3333333,19.2,383.7129,8,"No. 43, Alley 29, Lane 27, Dezheng St, Xindian District, New Taipei City, Taiwan 231",48.1
+2013.25,37.8,590.9292,1,"No. 85, Sanmin Rd, Xindian District, New Taipei City, Taiwan 231",39.7
+2012.9166667,28,372.6242,6,"No. 1, Lane 81, Mingde Rd, Xindian District, New Taipei City, Taiwan 231",40.8
+2013.4166667,13.6,492.2313,5,"No. 110號, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",43.8
+2012.75,29.3,529.7771,8,"安民街154號154-1號, 1樓, Xindian District, New Taipei City, Taiwan 231",40.2
+2013.3333333,37.2,186.5101,9,"No. 177-1, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",78.3
+2013.3333333,9,1402.016,0,"No. 201, Xiyuan Rd, Xindian District, New Taipei City, Taiwan 231",38.5
+2013.5833333,30.6,431.1114,10,"No. 1, Lane 46, Ershizhang Rd, Xindian District, New Taipei City, Taiwan 231",48.5
+2013.25,9.1,1402.016,0,"No. 201, Xiyuan Rd, Xindian District, New Taipei City, Taiwan 231",42.3
+2013.3333333,34.5,324.9419,6,"231, Taiwan, New Taipei City, Xindian District, Lane 26, Mingde Rd, 18號5樓",46
+2013.25,1.1,193.5845,6,"No. 28, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",49
+2013,16.5,4082.015,0,"231, Taiwan, New Taipei City, Xindian District, Lane 14, Daguan Rd, 2號之6",12.8
+2012.9166667,32.4,265.0609,8,"No. 20, Alley 3, Lane 16, Dafeng Rd, Xindian District, New Taipei City, Taiwan 231",40.2
+2013.4166667,11.9,3171.329,0,"234, Taiwan, New Taipei City, Yonghe District, Zhongzheng Rd, 382號B1",46.6
+2013.5833333,31,1156.412,0,"No. 6, Alley 7, Lane 81, Yongye Rd, Xindian District, New Taipei City, Taiwan 231",19
+2013.5,4,2147.376,3,"231, Taiwan, New Taipei City, Xindian District, 110縣道118號",33.4
+2012.8333333,16.2,4074.736,0,"No. 5號7, Lane 14, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",14.7
+2012.9166667,27.1,4412.765,1,"No. 35, Meigui Rd, Xindian District, New Taipei City, Taiwan 231",17.4
+2013.3333333,39.7,333.3679,9,"No. 18, Datong St, Xindian District, New Taipei City, Taiwan 231",32.4
+2013.25,8,2216.612,4,"231, Taiwan, New Taipei City, Xindian District, Anzhong Rd, 27之2號號",23.9
+2012.75,12.9,250.631,7,"No. 5, Lane 14, Xingzheng St, Xindian District, New Taipei City, Taiwan 231",39.3
+2013.1666667,3.6,373.8389,10,"231, Taiwan, New Taipei City, Xindian District, Jianguo Rd, 268號3樓",61.9
+2013.1666667,13,732.8528,0,"No. 107, Zhongyang 4th St, Xindian District, New Taipei City, Taiwan 231",39
+2013.0833333,12.8,732.8528,0,"No. 107, Zhongyang 4th St, Xindian District, New Taipei City, Taiwan 231",40.6
+2013.5,18.1,837.7233,0,"No. 107, Xinpo 1st St, Xindian District, New Taipei City, Taiwan 231",29.7
+2013.0833333,11,1712.632,2,"No. 13, Section 1, Anhe Rd, Xindian District, New Taipei City, Taiwan 231",28.8
+2013.5,13.7,250.631,7,"No. 5, Lane 14, Xingzheng St, Xindian District, New Taipei City, Taiwan 231",41.4
+2012.8333333,2,2077.39,3,"231, Taiwan, New Taipei City, Xindian District, Lane 100, Section 2, Ankang Rd, 5-1號231071",33.4
+2013.4166667,32.8,204.1705,8,"No. 13, Ershizhang Rd, Xindian District, New Taipei City, Taiwan 231",48.2
+2013.0833333,4.8,1559.827,3,"No. 59, Anxing Rd, Xindian District, New Taipei City, Taiwan 231",21.7
+2013.4166667,7.5,639.6198,5,"No. 186號, Section 2, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",40.8
+2013.4166667,16.4,389.8219,6,"No. 164號, Section 1, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",40.6
+2013.3333333,21.7,1055.067,0,"No. 30, Xinpo 1st St, Xindian District, New Taipei City, Taiwan 231",23.1
+2013,19,1009.235,0,"No. 67, Xinpo 1st St, Xindian District, New Taipei City, Taiwan 231",22.3
+2012.8333333,18,6306.153,1,"Zaojhen, Xindian District, New Taipei City, Taiwan 231",15
+2013.1666667,39.2,424.7132,7,"No. 3, Lane 280, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",30
+2012.9166667,31.7,1159.454,0,"No. 13, Alley 3, Lane 81, Yongye Rd, Xindian District, New Taipei City, Taiwan 231",13.8
+2012.8333333,5.9,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",52.7
+2012.6666667,30.4,1735.595,2,"No. 19, Lane 16, Section 2, Ankang Rd, Xindian District, New Taipei City, Taiwan 231",25.9
+2012.6666667,1.1,329.9747,5,"No. 22, Lane 73, Wenhua Rd, Xindian District, New Taipei City, Taiwan 231",51.8
+2013.4166667,31.5,5512.038,1,"No. 3, Lane 355, Section 3, Ankang Rd, Xindian District, New Taipei City, Taiwan 231",17.4
+2012.6666667,14.6,339.2289,1,"No. 95, Zhongyang Rd, Xindian District, New Taipei City, Taiwan 231",26.5
+2013.25,17.3,444.1334,1,"No. 58, Zhongyang 4th St, Xindian District, New Taipei City, Taiwan 231",43.9
+2013.4166667,0,292.9978,6,"No. 50, Lane 85, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",63.3
+2013.0833333,17.7,837.7233,0,"No. 107, Xinpo 1st St, Xindian District, New Taipei City, Taiwan 231",28.8
+2013.25,17,1485.097,4,"No. 172, Anmin St, Xindian District, New Taipei City, Taiwan 231",30.7
+2013.1666667,16.2,2288.011,3,"No. 11, Alley 7, Lane 57, Anzhong Rd, Xindian District, New Taipei City, Taiwan 231",24.4
+2012.9166667,15.9,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",53
+2013.4166667,3.9,2147.376,3,"231, Taiwan, New Taipei City, Xindian District, 110縣道118號",31.7
+2013.1666667,32.6,493.657,7,"231, Taiwan, New Taipei City, Xindian District, 北101鄉道28號",40.6
+2012.8333333,15.7,815.9314,4,"No. 27, Lane 436, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",38.1
+2013.25,17.8,1783.18,3,"No. 3, Anxing Rd, Xindian District, New Taipei City, Taiwan 231",23.7
+2012.8333333,34.7,482.7581,5,"No. 10, Alley 4, Lane 284, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",41.1
+2013.4166667,17.2,390.5684,5,"No. 6, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",40.1
+2013,17.6,837.7233,0,"No. 107, Xinpo 1st St, Xindian District, New Taipei City, Taiwan 231",23
+2013.3333333,10.8,252.5822,1,"No. 5, Zhongyang 6th St, Xindian District, New Taipei City, Taiwan 231",117.5
+2012.9166667,17.7,451.6419,8,"No. 37號, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",26.5
+2012.75,13,492.2313,5,"No. 110號, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",40.5
+2013.4166667,13.2,170.1289,1,"No. 5, Zhongyang 4th St, Xindian District, New Taipei City, Taiwan 231",29.3
+2013.1666667,27.5,394.0173,7,"No. 234號, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",41
+2012.6666667,1.5,23.38284,7,"No. 8, Lane 297, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",49.7
+2013,19.1,461.1016,5,"No. 142, Section 1, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",34
+2013.4166667,21.2,2185.128,3,"No. 15, Lane 15, Anguang Road, Xindian District, New Taipei City, Taiwan 231",27.7
+2012.75,0,208.3905,6,"No. 58之1號, Section 1, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",44
+2013.4166667,2.6,1554.25,3,"No. 13, Lane 36, Guanghua St, Xindian District, New Taipei City, Taiwan 231",31.1
+2013.25,2.3,184.3302,6,"No. 30, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",45.4
+2013.3333333,4.7,387.7721,9,"No. 218, Ershizhang Rd, Xindian District, New Taipei City, Taiwan 231",44.8
+2012.9166667,2,1455.798,1,"No. 52, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",25.6
+2013.4166667,33.5,1978.671,2,"No. 52, Yong'an St, Xindian District, New Taipei City, Taiwan 231",23.5
+2012.9166667,15,383.2805,7,"No. 257, Section 1, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",34.4
+2013.1666667,30.1,718.2937,3,"No. 340, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",55.3
+2012.9166667,5.9,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",56.3
+2013,19.2,461.1016,5,"No. 142, Section 1, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",32.9
+2013.5833333,16.6,323.6912,6,"No. 262, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",51
+2013.3333333,13.9,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",44.5
+2013.0833333,37.7,490.3446,0,"No. 121號, Sanmin Rd, Xindian District, New Taipei City, Taiwan 231",37
+2012.8333333,3.4,56.47425,7,"Xindian Station (Xindian Rd.), Xindian District, New Taipei City, Taiwan 231",54.4
+2013.0833333,17.5,395.6747,5,"No. 47, Bitan Rd, Xindian District, New Taipei City, Taiwan 231",24.5
+2012.6666667,12.6,383.2805,7,"No. 257, Section 1, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",42.5
+2013.5,26.4,335.5273,6,"No. 113, Mingde Rd, Xindian District, New Taipei City, Taiwan 231",38.1
+2013.1666667,18.2,2179.59,3,"231, Taiwan, New Taipei City, Xindian District, Ande St, 2號1樓",21.8
+2012.75,12.5,1144.436,4,"No. 77, Ln 700, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",34.1
+2012.8333333,34.9,567.0349,4,"No. 4, Lane 31, Section 2, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",28.5
+2013.3333333,16.7,4082.015,0,"231, Taiwan, New Taipei City, Xindian District, Lane 14, Daguan Rd, 2號之6",16.7
+2013.1666667,33.2,121.7262,10,"No. 23, Alley 12, Lane 65, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",46.1
+2013.0833333,2.5,156.2442,4,"No. 25, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",36.9
+2012.75,38,461.7848,0,"No. 129, Sanmin Rd, Xindian District, New Taipei City, Taiwan 231",35.7
+2013.5,16.5,2288.011,3,"No. 11, Alley 7, Lane 57, Anzhong Rd, Xindian District, New Taipei City, Taiwan 231",23.2
+2013.5,38.3,439.7105,0,"No. 5, Alley 4, Lane 117, Sanmin Rd, Xindian District, New Taipei City, Taiwan 231",38.4
+2013.4166667,20,1626.083,3,"No. 18, Ji'an St, Xindian District, New Taipei City, Taiwan 231",29.4
+2013.0833333,16.2,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",55
+2013.5,14.4,169.9803,1,"No. 6, Zhongyang 4th St, Xindian District, New Taipei City, Taiwan 231",50.2
+2012.8333333,10.3,3079.89,0,"No. 9, Lane 581, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",24.7
+2013.4166667,16.4,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",53
+2013.25,30.3,1264.73,0,"Meizhicheng, Xindian District, New Taipei City, Taiwan 231",19.1
+2013.5833333,16.4,1643.499,2,"No. 10, Zhangchun Rd, Xindian District, New Taipei City, Taiwan 231",24.7
+2013.1666667,21.3,537.7971,4,"No. 282-3, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",42.2
+2013.5833333,35.4,318.5292,9,"No. 42, Huazhong St, Xindian District, New Taipei City, Taiwan 231",78
+2013.3333333,8.3,104.8101,5,"No. 3, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",42.8
+2013.25,3.7,577.9615,6,"No. 121, Section 2, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",41.6
+2013.0833333,15.6,1756.411,2,"231, Taiwan, New Taipei City, Xindian District, 111縣道72號",27.3
+2013.25,13.3,250.631,7,"No. 5, Lane 14, Xingzheng St, Xindian District, New Taipei City, Taiwan 231",42
+2012.75,15.6,752.7669,2,"No. 2, Lane 418, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",37.5
+2013.3333333,7.1,379.5575,10,"No. 268號, Jianguo Rd, Xindian District, New Taipei City, Taiwan 231",49.8
+2013.25,34.6,272.6783,5,"No. 84, Section 1, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",26.9
+2012.75,13.5,4197.349,0,"No. 40, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",18.6
+2012.9166667,16.9,964.7496,4,"No. 620, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",37.7
+2013,12.9,187.4823,1,"No. 7, Zhongyang 4th St, Xindian District, New Taipei City, Taiwan 231",33.1
+2013.4166667,28.6,197.1338,6,"No. 18, Lane 33, Yonghua St, Xindian District, New Taipei City, Taiwan 231",42.5
+2012.6666667,12.4,1712.632,2,"No. 13, Section 1, Anhe Rd, Xindian District, New Taipei City, Taiwan 231",31.3
+2013.0833333,36.6,488.8193,8,"231, Taiwan, New Taipei City, Xindian District, 北101鄉道25號",38.1
+2013.5,4.1,56.47425,7,"Xindian Station (Xindian Rd.), Xindian District, New Taipei City, Taiwan 231",62.1
+2013.4166667,3.5,757.3377,3,"No. 17, Baohong Rd, Xindian District, New Taipei City, Taiwan 231",36.7
+2012.8333333,15.9,1497.713,3,"No. 2號, Lane 156, Anmin St, Xindian District, New Taipei City, Taiwan 231",23.6
+2013,13.6,4197.349,0,"No. 40, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",19.2
+2013.0833333,32,1156.777,0,"No. 12, Alley 3, Lane 81, Yongye Rd, Xindian District, New Taipei City, Taiwan 231",12.8
+2013.3333333,25.6,4519.69,0,"Binshi Special Zone, Xindian District, New Taipei City, Taiwan 231",15.6
+2013.1666667,39.8,617.7134,2,"No. 3, Lane 10, Bairen St, Xindian District, New Taipei City, Taiwan 231",39.6
+2012.75,7.8,104.8101,5,"No. 3, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",38.4
+2012.9166667,30,1013.341,5,"No. 3, Lane 680, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",22.8
+2013.5833333,27.3,337.6016,6,"No. 282, Guangming St, Xindian District, New Taipei City, Taiwan 231",36.5
+2012.8333333,5.1,1867.233,2,"No. 2, Lane 87, Section 3, Anhe Rd, Xindian District, New Taipei City, Taiwan 231",35.6
+2012.8333333,31.3,600.8604,5,"No. 10, Lane 63, Wufeng Rd, Xindian District, New Taipei City, Taiwan 231",30.9
+2012.9166667,31.5,258.186,9,"No. 35, Lane 96, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",36.3
+2013.3333333,1.7,329.9747,5,"No. 22, Lane 73, Wenhua Rd, Xindian District, New Taipei City, Taiwan 231",50.4
+2013.3333333,33.6,270.8895,0,"No. 1, Lane 10, Fuyuan St, Xindian District, New Taipei City, Taiwan 231",42.9
+2013,13,750.0704,2,"No. 3, Lane 45, Baoxing Rd, Xindian District, New Taipei City, Taiwan 231",37
+2012.6666667,5.7,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",53.5
+2013,33.5,563.2854,8,"No. 109號, Minquan Rd, Xindian District, New Taipei City, Taiwan 231",46.6
+2013.5,34.6,3085.17,0,"No. 10, Lane 58, Anle Rd, Yonghe District, New Taipei City, Taiwan 234",41.2
+2012.6666667,0,185.4296,0,"Xiao Bitan Tribe, Xindian District, New Taipei City, Taiwan 231",37.9
+2013.4166667,13.2,1712.632,2,"No. 13, Section 1, Anhe Rd, Xindian District, New Taipei City, Taiwan 231",30.8
+2013.5833333,17.4,6488.021,1,"231, Taiwan, New Taipei City, Xindian District, Lane 110, Anxiang Rd, 63號 號11樓",11.2
+2012.8333333,4.6,259.6607,6,"No. 23, Lane 85, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",53.7
+2012.75,7.8,104.8101,5,"No. 3, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",47
+2013,13.2,492.2313,5,"No. 110號, Huanhe Rd, Xindian District, New Taipei City, Taiwan 231",42.3
+2012.8333333,4,2180.245,3,"No. 15, Lane 15, Anguang Road, Xindian District, New Taipei City, Taiwan 231",28.6
+2012.8333333,18.4,2674.961,3,"No. 30, Lane 116, Ande St, Xindian District, New Taipei City, Taiwan 231",25.7
+2013.5,4.1,2147.376,3,"231, Taiwan, New Taipei City, Xindian District, 110縣道118號",31.3
+2013.4166667,12.2,1360.139,1,"No. 4-1, Lane 27, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",30.1
+2013.25,3.8,383.8624,5,"No. 181號, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",60.7
+2012.8333333,10.3,211.4473,1,"No. 7, Zhongyang 5th St, Xindian District, New Taipei City, Taiwan 231",45.3
+2013.4166667,0,338.9679,9,"No. 9-1, Lane 5, Daxin St, Xindian District, New Taipei City, Taiwan 231",44.9
+2013.1666667,1.1,193.5845,6,"No. 28, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",45.1
+2013.5,5.6,2408.993,0,"No. 2-5, Lane 391, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",24.7
+2012.6666667,32.9,87.30222,10,"No. 42, Minquan Rd, Xindian District, New Taipei City, Taiwan 231",47.1
+2013.0833333,41.4,281.205,8,"No. 2, Lane 13, Bo'ai St, Xindian District, New Taipei City, Taiwan 231",63.3
+2013.4166667,17.1,967.4,4,"No. 620, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",40
+2013.5,32.3,109.9455,10,"No. 10, Lane 95, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",48
+2013.4166667,35.3,614.1394,7,"No. 8, Alley 3, Lane 129, Ershizhang Rd, Xindian District, New Taipei City, Taiwan 231",33.1
+2012.9166667,17.3,2261.432,4,"No. 132, Section 2, Ankang Rd, Xindian District, New Taipei City, Taiwan 231",29.5
+2012.75,14.2,1801.544,1,"No. 1, Lane 61, Zhulin Rd, Xindian District, New Taipei City, Taiwan 231",24.8
+2012.8333333,15,1828.319,2,"No. 15, Anmin St, Xindian District, New Taipei City, Taiwan 231",20.9
+2013.4166667,18.2,350.8515,1,"No. 118, Zhongyang Rd, Xindian District, New Taipei City, Taiwan 231",43.1
+2012.6666667,20.2,2185.128,3,"No. 15, Lane 15, Anguang Road, Xindian District, New Taipei City, Taiwan 231",22.8
+2012.75,15.9,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",42.1
+2013.5,4.1,312.8963,5,"No. 9, Lane 105, Section 1, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",51.7
+2013,33.9,157.6052,7,"No. 13, Alley 39, Lane 64, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",41.5
+2013.0833333,0,274.0144,1,"No. 5, Zhongyang 7th St, Xindian District, New Taipei City, Taiwan 231",52.2
+2013.25,5.4,390.5684,5,"No. 6, Section 3, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",49.5
+2013.25,21.7,1157.988,0,"No. 11, Alley 5, Lane 18, Xinpoyi St, Xindian District, New Taipei City, Taiwan 231",23.8
+2013.4166667,14.7,1717.193,2,"No. 18, Lane 16, Section 2, Ankang Rd, Xindian District, New Taipei City, Taiwan 231",30.5
+2013.3333333,3.9,49.66105,8,"Xindian Station (Xindian Rd.), Xindian District, New Taipei City, Taiwan 231",56.8
+2013.3333333,37.3,587.8877,8,"No. 1, Lane 67, Section 2, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",37.4
+2013.3333333,0,292.9978,6,"No. 50, Lane 85, Baoqiao Rd, Xindian District, New Taipei City, Taiwan 231",69.7
+2013.3333333,14.1,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",53.3
+2013.4166667,8,132.5469,9,"No. 46-4, Minquan Rd, Xindian District, New Taipei City, Taiwan 231",47.3
+2013,16.3,3529.564,0,"No. 17巷6號, Hefeng 6th Rd, Xindian District, New Taipei City, Taiwan 231",29.3
+2012.6666667,29.1,506.1144,4,"No. 22-1, Zili St, Xindian District, New Taipei City, Taiwan 231",40.3
+2012.75,16.1,4066.587,0,"No. 8, Lane 14, Daguan Rd, Xindian District, New Taipei City, Taiwan 231",12.9
+2013,18.3,82.88643,10,"No. 44, Minquan Rd, Xindian District, New Taipei City, Taiwan 231",46.6
+2012.8333333,0,185.4296,0,"Xiao Bitan Tribe, Xindian District, New Taipei City, Taiwan 231",55.3
+2013.25,16.2,2103.555,3,"No. 29號, Anzhong Rd, Xindian District, New Taipei City, Taiwan 231",25.6
+2013.5,10.4,2251.938,4,"No. 1-4, Lane 57, Anzhong Rd, Xindian District, New Taipei City, Taiwan 231",27.3
+2013.25,40.9,122.3619,8,"No. 5, Lane 88, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",67.7
+2013.5,32.8,377.8302,9,"No. 23號, Alley 11, Lane 76, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",38.6
+2013.5833333,6.2,1939.749,1,"No. 7-1, Lane 82, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",31.3
+2013.0833333,42.7,443.802,6,"No. 154, Jianguo Rd, Xindian District, New Taipei City, Taiwan 231",35.3
+2013,16.9,967.4,4,"No. 620, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",40.3
+2013.5,32.6,4136.271,1,"No. 1-1, Lane 414, Section 2, Ankang Rd, Xindian District, New Taipei City, Taiwan 231",24.7
+2012.9166667,21.2,512.5487,4,"No. 282-7, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",42.5
+2012.6666667,37.1,918.6357,1,"No. 2, Lane 61, Baoxing Rd, Xindian District, New Taipei City, Taiwan 231",31.9
+2013.4166667,13.1,1164.838,4,"No. 41, Ln 700, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",32.2
+2013.4166667,14.7,1717.193,2,"No. 18, Lane 16, Section 2, Ankang Rd, Xindian District, New Taipei City, Taiwan 231",23
+2012.9166667,12.7,170.1289,1,"No. 5, Zhongyang 4th St, Xindian District, New Taipei City, Taiwan 231",37.3
+2013.25,26.8,482.7581,5,"No. 10, Alley 4, Lane 284, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",35.5
+2013.0833333,7.6,2175.03,3,"No. 14, Ande St, Xindian District, New Taipei City, Taiwan 231",27.7
+2012.8333333,12.7,187.4823,1,"No. 7, Zhongyang 4th St, Xindian District, New Taipei City, Taiwan 231",28.5
+2012.6666667,30.9,161.942,9,"No. 19號, Lane 42, Minquan Rd, Xindian District, New Taipei City, Taiwan 231",39.7
+2013.3333333,16.4,289.3248,5,"No. 215, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",41.2
+2012.6666667,23,130.9945,6,"231, Taiwan, New Taipei City, Xindian District, 國校路2巷6號",37.2
+2013.1666667,1.9,372.1386,7,"No. 224號, Zhongzheng Rd, Xindian District, New Taipei City, Taiwan 231",40.5
+2013,5.2,2408.993,0,"No. 2-5, Lane 391, Section 2, Beiyi Rd, Xindian District, New Taipei City, Taiwan 231",22.3
+2013.4166667,18.5,2175.744,3,"No. 15號, Lane 15, Anguang Road, Xindian District, New Taipei City, Taiwan 231",28.1
+2013,13.7,4082.015,0,"231, Taiwan, New Taipei City, Xindian District, Lane 14, Daguan Rd, 2號之6",15.4
+2012.6666667,5.6,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",50
+2013.25,18.8,390.9696,7,"No. 22, Lane 63, Dafeng Rd, Xindian District, New Taipei City, Taiwan 231",40.6
+2013,8.1,104.8101,5,"No. 3, Lane 271, Section 1, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",52.5
+2013.5,6.5,90.45606,9,"No. 108號, Section 2, Beixin Rd, Xindian District, New Taipei City, Taiwan 231",63.9
